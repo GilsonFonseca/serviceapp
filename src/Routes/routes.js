@@ -6,7 +6,7 @@ import Layout from "../Layout/Layout1";
 export default function RouterMap() {
   return (
     <div className="App">
-      <h1>Bem Vindo ao Digital Appointment</h1>
+      <h1>Bem Vindo ao Digital Appointment!!</h1>
       <Layout>
         <Routes>
             <Route path="/" element={<App />} />
